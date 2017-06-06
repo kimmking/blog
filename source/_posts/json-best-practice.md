@@ -51,6 +51,8 @@ JSON的应用很广泛，这里有超过100种语言下的JSON库：[json.org](h
 - 性能一般，文本表示的数据一般来说比二进制大得多，在数据传输上和解析处理上都要更影响性能。
 - 缺乏schema，跟同是文本数据格式的XML比，在类型的严格性和丰富性上要差很多。XML可以借由XSD或DTD来定义复杂的格式，并由此来验证XML文档是否符合格式要求，甚至进一步的，可以基于XSD来生成具体语言的操作代码，例如apache xmlbeans。并且这些工具组合到一起，形成一套庞大的生态，例如基于XML可以实现SOAP和WSDL，一系列的ws-*规范。但是我们也可以看到JSON在缺乏规范的情况下，实际上有更大一些的灵活性，特别是近年来REST的快速发展，已经有一些schema相关的发展(例如[理解JSON Schema](https://spacetelescope.github.io/understanding-json-schema/index.html)，[使用JSON Schema](http://usingjsonschema.com/downloads/)， [在线schema测试](http://azimi.me/json-schema-view/demo/demo.html))，也有类似于WSDL的[WADL](https://www.w3.org/Submission/wadl/)出现。
 
+<!-- more -->
+
 ## 3. 常用技术与工具
 ### 3.1 相关技术以及与XML的关系
 - 使用JSON实现RPC（类似XML-RPC）：[JSON-RPC](http://www.jsonrpc.org/)
