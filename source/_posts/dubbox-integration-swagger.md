@@ -1,6 +1,6 @@
 title: dubbox与swagger集成
 date: 2017-06-13 17:50:18
-tags: dubbox,swagger
+tags: dubbo
 ---
 
 ## dubbox与swagger集成
