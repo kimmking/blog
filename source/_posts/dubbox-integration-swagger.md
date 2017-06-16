@@ -26,6 +26,8 @@ mvn package install -DskipTests
 
 ```
 
+<!-- more -->
+
 1. 编译完成后，在dubbo\dubbo-demo\dubbo-demo-provider\target文件夹下，可以看到打包好的war：dubbo-demo-provider-2.8.4.war；
 2. 删除tomcatwebapps下的所有文件，将dubbo-demo-provider-2.8.4.war复制过来，改名为ROOT.war；
 3. tomcat端口号改为80；
