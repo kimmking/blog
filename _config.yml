@@ -71,5 +71,5 @@ theme: jacman
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/kimmking/kimmking.github.io
+  repo: git@github.com:kimmking/kimmking.github.io.git
   branch: master
