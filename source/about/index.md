@@ -14,7 +14,7 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 4. 2018年10月9日@gitchat《百亿流量API网关设计与实践》：[分享文章](https://gitbook.cn/gitchat/activity/5ba3c3946d2f7759a30b10d9)
 5. 2019年3月21日@北京国家会议中心(阿里云峰会)《Dubbo2.7和Dubbo Admin新特性》：[分享PPT](/ppt/dubbo2.7.pptx)
 6. 2019年4月27日@西二旗(Huobi&Gitchat技术沙龙第一期)《微服务架构深度解析与最佳实践》：[分享PPT](/ppt/微服务架构深度解析与最佳实践-秦金卫KimmKing.pdf)
-7. 2019年5月8日@北京国家会议中心(北京QCon2019)《高并发实时分布式交易系统的实践与思考》：[分享PPT](/ppt/QCon2019_交易系统的实践与思考-秦金卫KimmKing.pdf)
+7. 2019年5月8日@北京国家会议中心(北京QCon2019)《高并发实时分布式交易系统的实践与思考》：[分享PPT](/ppt/QCon2019_交易系统的实践与思考-秦金卫KimmKing.pdf) - [内容介绍](https://2019.qconbeijing.com/presentation/1671)
 8. 2019年5月26日@北京和乔大厦(Apache Dubbo开发者日)《Apache Dubbo生态体系化建设设想》：[分享PPT](/ppt/ApacheDubbo生态体系化建设设想-秦金卫KimmKing.pdf)
 
 ![aliyunmeeting](/images/02.jpg)
@@ -34,7 +34,6 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 ### 出版著作
 
 1. [《微服务架构实战：基于Dubbo、Spring Cloud和Service Mesh》 与程超等合著](https://item.jd.com/12585284.html)
-![微服务架构实战](/images/01.jpg)
-了解详细信息：https://msainaction.github.io/
+![微服务架构实战](/images/01.jpg) - [了解详细信息](https://msainaction.github.io/)
 
 More info: [blog](http://blog.csdn.net/kimmking)
