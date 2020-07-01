@@ -4,7 +4,7 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 
 ### 个人介绍
 
-**秦金卫(KimmKing)**，**Apache Dubbo PMC/Apache ShardingSphere Committer**，前某集团高级技术总监/阿里架构师/某商业银行北京研发中心负责人，阿里云MVP、腾讯TVP、TGO鲲鹏会会员、1024学院CTO培训班第六届学员。关注于互联网，电商，金融，支付，区块链等领域，熟悉海量并发低延迟交易系统的设计实现，10多年研发管理和架构经验，熟悉各类中间件，擅长于SOA/微服务等分布式系统架构，热爱各种开源技术，活跃于Dubbo/Fastjson/ActiveMQ等多个开源社区。《微服务架构实战：基于Dubbo、Spring Cloud和Service Mesh》、《JVM核心技术32讲》合著作者，个人博客：http://kimmking.github.io 。
+**秦金卫(KimmKing)**，**Apache Dubbo/ShardingSphere PMC**，前某集团高级技术总监/阿里架构师/某商业银行北京研发中心负责人，阿里云MVP、腾讯TVP、TGO鲲鹏会会员、1024学院CTO培训班第六届学员。关注于互联网，电商，金融，支付，区块链等领域，熟悉海量并发低延迟交易系统的设计实现，10多年研发管理和架构经验，熟悉各类中间件，擅长于SOA/微服务等分布式系统架构，热爱各种开源技术，活跃于Dubbo/Fastjson/ActiveMQ等多个开源社区。《微服务架构实战：基于Dubbo、Spring Cloud和Service Mesh》、《JVM核心技术32讲》合著作者，个人博客：http://kimmking.github.io 。
 
 ### 公开分享
 
