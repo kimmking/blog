@@ -23,6 +23,8 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 13. 2020年5月27日ACMUG线上讲坛之京东站《**Apache ShardingSphere打造MySQL开源生态体系**》：PPT
 14. 2020年5月29日@gitchat《**千亿数据的潘多拉魔盒：从分库分表到分布式数据库**》：[文章](https://gitbook.cn/new/gitchat/activity/5eb2e609edf3136c22fcffd2)
 15. 2020年6月6日知数堂3306π重庆站（2020）《**分布式数据库中间件Apache ShardingSphere架构演进**》：PPT
+16. 2020年7月15日网龙大学MAD技术论坛第八期：云原生《**从微服务到服务网格**》
+17. 2020年9月17日腾讯云大学TVP大咖说：《**Apache ShardingSphere构建MySQL开源生态体系**》
 
 ![aliyunmeeting](/images/02.jpg)
 
@@ -45,6 +47,7 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 15. 2019年10月19日西安电子科技大学《**数字货币交易系统**》
 16. 2019年12月9日华尔道夫酒店《**数字货币与区块链交易系统的实践**》
 17. 2020年1月某交易所《**毫秒级交易所核心系统整体方案**》
+18. 2020年9月2日融360@互联网金融中心《**从微服务到服务网格与数据库网格**》
 
 ### 出版著作
 
