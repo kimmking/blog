@@ -57,7 +57,7 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 
 ### 技术培训
 
-1. 极客大学《Java进阶训练营》(进行中)：https://u.geekbang.org/subject/java
+1. 极客大学《**Java进阶训练营**》(进行中)：https://u.geekbang.org/subject/java
 2. 2020年10月26-27日中国银行软件开发中心《**Spring核心技术**》**《微服务架构技术体系》**
 
 ![微服务架构实战](/images/JavaCourse.png) 
