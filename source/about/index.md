@@ -49,10 +49,15 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 17. 2020年1月某交易所《**毫秒级交易所核心系统整体方案**》
 18. 2020年9月2日融360@互联网金融中心《**从微服务到服务网格与数据库网格**》
 
-### 出版著作
+### 出版著作与专栏
 
 1. [《微服务架构实战：基于Dubbo、Spring Cloud和Service Mesh》 与程超等合著](https://item.jd.com/12585284.html)
 ![微服务架构实战](/images/01.jpg) - [了解详细信息](https://msainaction.github.io/)
 2. [《JVM 核心技术 32 讲：带你快速掌握 JVM 问题排查分析技能》与任富飞合著](https://gitbook.cn/gitchat/column/5de76cc38d374b7721a15cec)
 
-More info: [blog](http://blog.csdn.net/kimmking)
+### 技术培训
+
+1. 极客大学《Java进阶训练营》(进行中)：https://u.geekbang.org/subject/java
+2. 2020年10月26-27日中国银行软件开发中心《**Spring核心技术**》**《微服务架构技术体系》**
+
+![微服务架构实战](/images/JavaCourse.png) 
