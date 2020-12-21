@@ -24,7 +24,9 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 14. 2020年5月29日@gitchat《**千亿数据的潘多拉魔盒：从分库分表到分布式数据库**》：[文章](https://gitbook.cn/new/gitchat/activity/5eb2e609edf3136c22fcffd2)
 15. 2020年6月6日知数堂3306π重庆站（2020）《**分布式数据库中间件Apache ShardingSphere架构演进**》：PPT
 16. 2020年7月15日网龙大学MAD技术论坛第八期：云原生《**从微服务到服务网格**》
-17. 2020年9月17日腾讯云大学TVP大咖说：《**Apache ShardingSphere构建MySQL开源生态体系**》
+17. 2020年9月17日腾讯云大学TVP大咖说《**Apache ShardingSphere构建MySQL开源生态体系**》
+18. 2020年12月4日云原生学院第十二期《**从数据库中间件到云原生**》
+19. 2020年12月20日腾讯techo技术大会@798艺术中心《**微服务架构的最佳实践和发展趋势**》：[视频回放](https://live.csdn.net/room/csdnlive17/BeqWudrf)
 
 ![aliyunmeeting](/images/02.jpg)
 
@@ -58,6 +60,7 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 ### 技术培训
 
 1. 极客大学《**Java进阶训练营**》(进行中)：https://u.geekbang.org/subject/java
-2. 2020年10月26-27日中国银行软件开发中心《**Spring核心技术**》**《微服务架构技术体系》**
+2. 2020年10月26-27日中国银行软件开发中心@北京《**Spring核心技术**》**《微服务架构技术体系》**
+3. 2020年11月30日-12月1日中国银行软件开发中心@深圳《**MySQL技术详解**》《**数据库中间件**》《**分布式数据库**》《**高可用MongoDB**》
 
 ![微服务架构实战](/images/JavaCourse.png) 
