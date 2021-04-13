@@ -27,7 +27,8 @@ Welcome to kimmking's blog on github.io & kimmking@apache.org
 17. 2020年9月17日腾讯云大学TVP大咖说《**Apache ShardingSphere构建MySQL开源生态体系**》
 18. 2020年12月4日云原生学院第十二期《**从数据库中间件到云原生**》
 19. 2020年12月20日腾讯techo技术大会@798艺术中心《**微服务架构的最佳实践和发展趋势**》：[视频回放](https://live.csdn.net/room/csdnlive17/BeqWudrf)
-20. 2021年3月6日PerfMa技术沙龙@中国航信《**核心交易系统的性能关注点**》
+20. 2021年3月6日PerfMa技术沙龙@中国航信《**核心交易系统的性能关注点**》：[活动链接](https://club.perfma.com/article/2285338)
+21. 2021年3月27日腾讯云TVP技术闭门会嘉宾主持人《**技术管理：如何解决人的问题**》：[活动链接](https://cloud.tencent.com/developer/article/1798094)
 
 ![aliyunmeeting](/images/02.jpg)
 
