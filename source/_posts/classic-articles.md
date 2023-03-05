@@ -67,7 +67,7 @@ tags: 汇总
 - [金融业的结局会是怎样的？还是会永远存在下去？](https://www.zhihu.com/question/26601152/answer/33362480)
 - [各类智能手环的详细的运行原理是怎样的](https://www.zhihu.com/question/21423393/answer/34411214)：智能手环软硬件原理，大约2000字。
 
-
+to be continued...
 
 
 
